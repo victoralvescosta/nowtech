@@ -1,0 +1,38 @@
+﻿História da internet
+
+
+
+
+         O marco inicial para a criação da internet foi o lançamento do primeiro satélite ao espaço pela URSS em 1957, o Sputnik, satélite de comunicação. No mesmo ano, o Sputnik 2 coloca o primeiro ser vivo (da Terra) no espaço, a cadela Laika. E a partir daí, se inicia a corrida espacial entre EUA e URSS, inicialmente liderada pelos soviéticos.
+
+
+[imagem laika]
+ 
+         A ARPANET funcionava através de um sistema conhecido como chaveamento de pacotes, que é um sistema de transmissão de dados em rede de computadores no qual as informações são divididas em pequenos pacotes, que por sua vez contém trecho dos dados, o endereço do destinatário e informações que permitiam a remontagem da mensagem original. O ataque inimigo nunca aconteceu, mas o que o Departamento de Defesa dos Estados Unidos não sabia era que dava início ao maior fenômeno midiático do século 20', único meio de comunicação que em apenas 4 anos conseguiria atingir cerca de 50 milhões de pessoas.
+
+
+[imagem da transmissão]
+
+
+         Em 29 de Outubro de 1969 ocorreu a transmissão do que pode ser considerado o primeiro E-mail da história. O texto desse primeiro e-mail seria <em>"LOGIN"</em>, conforme desejava o Professor Leonard Kleinrock da Universidade da Califórnia em Los Angeles (UCLA), mas o computador no Stanford Research Institute, que recebia a mensagem, parou de funcionar após receber a letra  <em>"O"</em>.
+
+
+[imagem leonard Kleinrock]
+
+
+[aside]
+Os números da internet
+
+
+Alguns números da Internet O crescimento da Internet a partir da NFSNet (número de computadores conectados): 
+1985 – 1 mil 
+1986 – 5 mil 
+1987 – 25 mil 
+1990 – 300 mil 
+Evolução dos sistemas de comunicação mais populares Quantos anos cada mídia levou para atingir 50 milhões de usuários: 
+Telefone.............. 70 
+Rádio................... 38 
+TV....................... 13 
+Internet................ 05 
+Comparação entre a evolução dos sistemas de comunicação frente à população mundial:
+[aside]
