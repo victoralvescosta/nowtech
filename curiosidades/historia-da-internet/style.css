@@ -1,0 +1,96 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,500&display=swap');
+
+@font-face {
+    font-family: 'Astronomus';
+    src: url('./fontes/Astronomus.ttf') format('opentype');
+    font-weight: normal;
+}
+
+:root {
+    --cor0:#33044A;
+    --cor1: #E80439;
+    --cor3: #2FBAD1;
+    --cor4: #D7F3F7;
+
+    --fonte-principal:'Astronomus';
+    --fonte-conteudo:'Raleway', sans-serif;
+    --fonte-titulos:: 'Share Tech';
+}
+
+* {
+    margin:0px;
+    padding: 0px;
+}
+
+header {
+    background-color: var(--cor4);
+    padding: 30px;
+    text-align: center;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.747);
+}
+
+header .azul {
+    font-family: var(--fonte-principal);
+    color: var(--cor0);
+    font-size: 60px;
+}
+
+header .vermelho {
+    font-family: var(--fonte-principal);
+    font-size: 60px;
+    color: var(--cor1);
+}
+
+nav {
+    background-color: var(--cor4);
+    padding: 10px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.192);
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.192);
+    text-align: center;
+}
+
+nav a {
+    font-family: var(--fonte-principal);
+    text-decoration: none;
+    font-size: 20px;
+    padding: 0px 3px 0px 10px;
+    color: var(--cor0);
+}
+
+nav a:hover {
+    text-decoration: underline;
+    color: var(--cor1);
+}
+
+main {
+    margin: 10px auto 10px auto;
+    min-width: 280px;
+    max-width: 800px;
+}
+
+img {
+    width: 100%;
+}
+
+article {
+    padding: 25px;
+    text-indent: 30px;
+    text-align: justify;
+}
+
+article h1.conteudo {
+    font-size: 2.5em;
+}
+
+article h2{
+    font-size: 2em;
+}
+
+article p {
+    font-family: 
+    var(--fonte-conteudo);
+}
