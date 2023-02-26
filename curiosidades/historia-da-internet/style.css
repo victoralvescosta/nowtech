@@ -26,6 +26,8 @@
     padding: 0px;
 }
 
+         /* tags header */
+
 header {
     background-color: var(--cor4);
     padding: 30px;
@@ -44,6 +46,8 @@ header .vermelho {
     font-size: 60px;
     color: var(--cor1);
 }
+
+        /* tags nav */
 
 nav {
     background-color: var(--cor4);
@@ -66,6 +70,8 @@ nav a:hover {
     color: var(--cor1);
 }
 
+        /* tag main */
+
 main {
     margin: 10px auto 10px auto;
     min-width: 280px;
@@ -76,9 +82,10 @@ img {
     width: 100%;
 }
 
+        /* tag article */
+
 article {
     padding: 25px;
-    text-indent: 30px;
     text-align: justify;
 }
 
@@ -93,5 +100,52 @@ article h2{
 article p {
     font-family: 
     var(--fonte-conteudo);
-    font-weight: bolder;
+    font-weight: normal;
+    line-height: 1.8em;
+    text-indent: 30px;
+}
+
+        /* tag aside */
+
+aside {
+    background-color: var(--cor4);
+    padding: 10px;
+    border-radius: 15px 0px 15px 0px;
+    box-shadow: 2px 2px 7px 0px rgba(0, 0, 0, 0.39);
+    margin-top: 20px;
+}
+
+aside .computador {
+    list-style-position: inside;
+    list-style-type: '\01F4BB';
+}
+
+aside .sistemas {
+    list-style-position: inside;
+}
+
+aside .telefone {
+    list-style-type: '\01F4F2';
+}
+
+aside .radio {
+    list-style-type: '	\01F4FB';
+}
+
+aside .tv {
+    list-style-type: '\01F4FA';
+}
+
+aside .internet {
+    list-style-type: '\01F4F6';
+}
+
+        /* footer */
+
+footer {
+    background-color: black;
+    padding: 15px;
+    color: white;
+    text-align: center;
+    margin: 10px auto 10px auto;
 }
