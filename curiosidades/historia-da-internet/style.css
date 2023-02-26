@@ -30,7 +30,7 @@ header {
     background-color: var(--cor4);
     padding: 30px;
     text-align: center;
-    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.747);
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.37);
 }
 
 header .azul {
@@ -57,7 +57,7 @@ nav a {
     font-family: var(--fonte-principal);
     text-decoration: none;
     font-size: 20px;
-    padding: 0px 3px 0px 10px;
+    padding: 0px 1px 0px 9px;
     color: var(--cor0);
 }
 
@@ -93,4 +93,5 @@ article h2{
 article p {
     font-family: 
     var(--fonte-conteudo);
+    font-weight: bolder;
 }
